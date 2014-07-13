@@ -1,0 +1,11 @@
+{
+    "Name": "TimePicker",
+    "Version": "8.0",
+    
+    "Includes": [
+        "~/js/jquery-ui-timepicker-addon.js",
+        "~/js/jquery-ui-timepicker-ru.js",
+        "~/js/jquery-ui-sliderAccess.js",
+        "~/css/jquery-ui-timepicker-addon.css"
+    ]
+}

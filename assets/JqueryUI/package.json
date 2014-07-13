@@ -1,0 +1,9 @@
+{
+    "Name": "JqueryUI",
+    "Version": "6.1",
+    
+    "Includes": [
+        "~/js/jquery-ui.min.js",
+        "~/css/jMetro/jquery-ui.css"
+    ]
+}
